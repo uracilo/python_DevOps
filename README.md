@@ -32,7 +32,6 @@ Intro_python
 Intro_pandas
 Intro_lambdas
 Check_disponibilty
-Get_all_assets_website for a CDN
 ```
 
 
