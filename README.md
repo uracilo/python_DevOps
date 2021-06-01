@@ -1,5 +1,9 @@
 # python_DevOps
 
+### Requirements 
+-python 
+
+
 ## Install virtual env and check python version
  ```sh
  python3 --version
